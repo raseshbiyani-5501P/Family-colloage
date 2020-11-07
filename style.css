@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: darkblue;
+}
+.normaltype{
+    width: 400px;
+    height: 200px;
+}
+.intro{
+    font-family:cursive;
+    color:cyan;
+}
+.hd{
+    width: 200px;
+    height: 200px;
+}
+.normal{
+    width: 300px;
+    height: 200px;
+}
